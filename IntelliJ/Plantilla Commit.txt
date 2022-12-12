@@ -1,1 +1,0 @@
-git commit -m "jleocan773 Primer commit <Nº Problemas> <Fecha>"
