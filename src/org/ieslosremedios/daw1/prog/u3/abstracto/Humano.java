@@ -7,7 +7,6 @@ public class Humano extends Animal{
     Integer getNumPatas() {
         return numPatas;
     }
-    Boolean esMamifero(){
-        return this.mamifero;
-    }
+    @Override
+    Boolean esMamifero() { return mamifero;}
 }

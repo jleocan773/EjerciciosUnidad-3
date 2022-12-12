@@ -7,6 +7,7 @@ public class Caracol extends Animal {
     Integer getNumPatas() {
         return numPatas;
     }
+    @Override
     Boolean esMamifero(){
         return mamifero;
     }
